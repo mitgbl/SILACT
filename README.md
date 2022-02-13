@@ -1,5 +1,5 @@
 # SILACT
-The code and supplementary document for Single-frame label-free cell tomography.
+The manuscript and code for SIngle-frame LAbel-free Cell Tomography (SILACT).
 
 Please cite the following paper when using the code: 
 
@@ -7,7 +7,7 @@ https://arxiv.org/abs/2202.03627
 
 Ge, B., He, Y., Deng, M., Rahman, M.H., Wang, Y., Wu, Z., Wong, C.H.N., Chan, M.K., Ho, Y.P., Duan, L. and Yaqoob, Z., 2022. Single-frame label-free cell tomography at speed of more than 10,000 volumes per second. arXiv preprint
 
-The supplementary document of this paper is also uploaded here.
+The maintext and supplementary document of this paper are also uploaded here.
 
 ## contents
 1. The code for training the DNN
